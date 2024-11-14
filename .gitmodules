@@ -1,3 +1,6 @@
 [submodule "datepiker-ui"]
 	path = datepiker-ui
 	url = https://github.com/OscarHinjosLopez/datepiker-ui
+[submodule "testimonios"]
+	path = testimonios
+	url = https://github.com/OscarHinjosLopez/testimonios
